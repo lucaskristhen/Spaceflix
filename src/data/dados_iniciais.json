@@ -1,0 +1,184 @@
+{
+  "categorias": [
+    {
+      "titulo": "Exoplanetas",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "O melhor conteúdo sobre exoplanetas em português",
+        "url": "https://www.youtube.com/watch?v=9_7_SkCnfDU&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT"
+      },
+      "videos": [
+        {
+          "titulo": "IMAGEM DE 2 EXOPLANETAS EM ESTRELA PARECIDA COM O SOL ",
+          "url": "https://www.youtube.com/watch?v=9_7_SkCnfDU&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT"
+        },
+        {
+          "titulo": "DESCOBRIMOS 6 EXOLUAS?",
+          "url": "https://www.youtube.com/watch?v=8kEkpY_AcMw&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT&index=2"
+        },
+        {
+          "titulo": "6 BILHÕES DE EXOPLANETAS PARECIDOS COM A TERRA NA VIA LÁCTEA",
+          "url": "https://www.youtube.com/watch?v=dPJx6mrGCKc&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT&index=3"
+        },
+        {
+          "titulo": "DESCOBERTO UM ESPELHO DO NOSSO SISTEMA SOLAR",
+          "url": "https://www.youtube.com/watch?v=c-vQvAn609U&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT&index=4"
+        },
+        {
+          "titulo": "EXOPLANETA PROXIMA B É FINALMENTE CONFIRMADO",
+          "url": "https://www.youtube.com/watch?v=0RuAfBWBDWw&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT&index=5"
+        },
+        {
+          "titulo": "OS SINAIS DO NASCIMENTO DE UM PLANETA",
+          "url": "https://www.youtube.com/watch?v=oMSC3y93STM&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT&index=6"
+        },
+        {
+          "titulo": "IMAGENS DO NASCIMENTO DE PLANETAS GIGANTES",
+          "url": "https://www.youtube.com/watch?v=cYcaRsgLDZw&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT&index=7"
+        },
+        {
+          "titulo": "O EXOPLANETA MAIS QUENTE E O FIM DO SPITZER",
+          "url": "https://www.youtube.com/watch?v=aywTiHH53Bs&list=PLSn5Nx9GNk6LeC0BwLbkK1YboaiLL0jJT&index=15"
+        }        
+      ]
+    },
+    {
+      "titulo": "Marte",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Os Mistérios de Marte",
+        "url": "https://www.youtube.com/watch?v=Gtt8yY5VZV8&list=PLSn5Nx9GNk6K0DgbcNam78rY9Gj4rV22U"
+      },
+      "videos": [
+        {
+          "titulo": "Marte Pode Ter Oxigênio Suficiente Para Suportar A Vida",
+          "url": "https://www.youtube.com/watch?v=Tutak4ZP-5A&list=PLSn5Nx9GNk6K0DgbcNam78rY9Gj4rV22U&index=9"
+        },
+        {
+          "titulo": "Uma Piscina de Gelo Em Marte - A Impressionante Cratera Korolev",
+          "url": "https://www.youtube.com/watch?v=sArMYQmAlbo&list=PLSn5Nx9GNk6K0DgbcNam78rY9Gj4rV22U&index=26"
+        },
+        {
+          "titulo": "EVIDÊNCIAS DE VIDA EM MARTE? ",
+          "url": "https://www.youtube.com/watch?v=n-i_Ji4mGAQ&list=PLSn5Nx9GNk6K0DgbcNam78rY9Gj4rV22U&index=38"
+        },
+        {
+          "titulo": "CURIOSITY ESTUDA O CLIMA DE MARTE DO ALTO DA MONTANHA",
+          "url": "https://www.youtube.com/watch?v=zT3DIf0PQR4&list=PLSn5Nx9GNk6K0DgbcNam78rY9Gj4rV22U&index=45"
+        }, 
+        {
+          "titulo": "COMO AS BATATAS VOADORAS DE MARTE SE FORMARAM?",
+          "url": "https://www.youtube.com/watch?v=83R_2SmYxA8&list=PLSn5Nx9GNk6K0DgbcNam78rY9Gj4rV22U&index=55"
+        }
+      ]
+    },
+    {
+      "titulo": "JAMES WEBB",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "JAMES WEBB COMPLETO",
+        "url": "https://www.youtube.com/watch?v=YS3_6Zl8T1o&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u"
+      },
+      "videos": [
+        {
+          "titulo": "4 RECORDES QUE O JAMES WEBB PODE QUEBRAR NA ASTRONOMIA",
+          "url": "https://www.youtube.com/watch?v=yAA7hjyVwS0&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=2"
+        },
+        {
+          "titulo": "COMO DOBRAR UM TELESCÓPIO ESPACIAL - NOTÍCIAS DO JAMES WEBB",
+          "url": "https://www.youtube.com/watch?v=GVxOOfKD7rM&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=3"
+        },
+        {
+          "titulo": "JAMES WEBB - MAIS UM TESTE, MAIS PERTO DO LANÇAMENTO",
+          "url": "https://www.youtube.com/watch?v=oi60v87NXNE&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=4"
+        },
+        {
+          "titulo": "31 DE OUTUBRO DE 2021 - A DATA DE LANÇAMENTO DO JAMES WEBB",
+          "url": "https://www.youtube.com/watch?v=tLQnY6AE-7Q&list=PLSn5Nx9GNk6J_3ch4WlHHRe5fZdai5s_u&index=7"
+        }
+      ]
+    },
+    {
+      "titulo": "Engenharia Aeroespacial",
+      "cor": "grey",
+      "videos": [
+        {
+          "titulo": "Crew Dragon Launch Escape Demonstration",
+          "url": "https://www.youtube.com/watch?v=mhrkdHshb3E"
+        },
+        {
+          "titulo": "Inside the Space Suit Lab",
+          "url": "https://www.youtube.com/watch?v=4LMwKwcMdIg"
+        },
+        {
+          "titulo": "Starlink Mission",
+          "url": "https://www.youtube.com/watch?v=8riKQXChPGg"
+        },
+        {
+          "titulo": "Starship Launch Animation",
+          "url": "https://www.youtube.com/watch?v=C8JyvzU0CXU"
+        }
+      ]
+    },
+    {
+      "titulo": "Astrobiologia",
+      "cor": "red",
+      "link_extra": {
+        "text": "Minicurso de Astrobiologia",
+        "url": "https://www.youtube.com/watch?v=Q-EifZqF32g"
+      },
+      "videos": [
+        {
+          "titulo": "O que é Astrobiologia",
+          "url": "https://www.youtube.com/watch?v=dcd2izGehK4"
+        },
+        {
+          "titulo": " Astrobiologia e origem da vida",
+          "url": "https://www.youtube.com/watch?v=7EqrMl1HJi0"
+        },
+        {
+          "titulo": "What is Astrobiology?",
+          "url": "https://www.youtube.com/watch?v=eJTfcV1ZceE"
+        },
+        {
+          "titulo": "Vida Extraterrestre Alienígena",
+          "url": "https://www.youtube.com/watch?v=w3SNopriYvM"
+        },
+        {
+          "titulo": "Astrobiology: Life in the Universe",
+          "url": "https://www.youtube.com/watch?v=SOzZnVxIgsc"
+        }
+      ]
+    },
+    {
+      "titulo": "Lauchs",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Lançamento Discovery (ônibus espacial)",
+        "url": "https://www.youtube.com/watch?v=Vfp1bzJlQUw"
+      },
+      "videos": [
+        {
+          "titulo": "(SCRUB) LANÇAMENTO DO ELECTRON NA MISSÃO DON'T STOP ME NOW",
+          "url": "https://www.youtube.com/watch?v=TTYM0AZdivc"
+        },
+        {
+          "titulo": "Lançamento NASA e SpaceX | Crew Dragon",
+          "url": "https://www.youtube.com/watch?v=lq2VKTQ4_ag"
+        },
+        {
+          "titulo": "Lançamento Foguete SpaceX",
+          "url": "https://www.youtube.com/watch?v=UPSQ2ohzJlk"
+        },
+        {
+          "titulo": "9 Acidentes Na Decolagem de Foguetes",
+          "url": "https://www.youtube.com/watch?v=eDhBSEy577Y"
+        },
+        {
+          "titulo": "Foguete faz pouso bem-sucedido e histórico na vertical; ",
+          "url": "https://www.youtube.com/watch?v=3KKKxyef09c"
+        }
+      ]
+    }
+  ]
+}
